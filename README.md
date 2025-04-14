@@ -37,7 +37,7 @@ Check out the live version of KodeLab here: [Live Demo](https://1ca349d0.react-p
 ## 🔧 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/abhishek02122002/React_PEP_Project.git
+   git clone https://github.com/Aditya12218492/kodelab-works
    ```
 2. Navigate to the project directory:
    ```sh
