@@ -52,15 +52,5 @@ Check out the live version of KodeLab here: [Live Demo](https://1ca349d0.react-p
    npm start
    ```
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## 👤 Author
-**Abhishek**  
-GitHub: [@abhishek02122002](https://github.com/abhishek02122002)
-
-## 📜 License
-This project is licensed under the MIT License.
-
 
 
